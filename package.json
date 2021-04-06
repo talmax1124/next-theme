@@ -6,8 +6,9 @@
     "engines": {
         "vscode": "^1.55.0"
     },
+    "publisher": "talmax",
     "author": {
-        "name": "Talmax"
+        "name": "talmax"
     },
     "keywords": [
         "neon"
