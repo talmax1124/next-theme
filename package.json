@@ -1,0 +1,30 @@
+{
+    "name": "talmax",
+    "displayName": "Next ++",
+    "description": "Nice & Beautiful Theme By Github User talmax1124",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "author": {
+        "name": "Talmax"
+    },
+    "keywords": [
+        "neon"
+    ],
+    "icon": "logo.jpg",
+    "license": "MIT",
+    "homepage": "https://github.com",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Next++",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Next++-color-theme.json"
+            }
+        ]
+    }
+}
